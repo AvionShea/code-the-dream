@@ -114,9 +114,11 @@ style E fill:#ffebee
 
 **Next Steps**: Upon successful completion, eligible for:
 
-- Advanced React.js course (17 weeks)
-- Node.js/Express backend course (17 weeks)
-- Ruby on Rails course (17 weeks)
+- Advanced React.js course (11 weeks)
+- Node.js/Express backend course (11 weeks)
+- Advance Practicum (11 weeks)
+- Python Essentials course (11 weeks)
+- Python 200 course (11 weeks)
 - Paid apprenticeship opportunities at CTD Labs
 
 ## 🤝 Code the Dream Community
