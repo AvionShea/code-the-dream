@@ -34,7 +34,6 @@ const myPet = {
     name: "Shadow",
     species: "dog",
     color: "black",
-    birthYear: 2024
 };
 console.log("Q1 name: ", myPet.name);
 console.log("Q1 species: ", myPet.species);
@@ -62,10 +61,11 @@ console.log("Q2: ", aboutPet);
 //    Q3: 7
 
 // PUT YOUR CODE HERE
-const age = function () {
-    return new Date().getFullYear() - this.birthYear;
+myPet.petAge = 1;
+myPet.age = function () {
+    return this.petAge;
 };
-myPet.age = age;
+
 // Don't forget your console.logs!
 console.log("Q3: ", myPet.age());
 
