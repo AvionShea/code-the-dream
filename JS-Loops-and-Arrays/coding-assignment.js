@@ -161,12 +161,12 @@ console.log("Q6 not empty: ", arrayChecker(full));
 //    Q7: null
 
 // PUT YOUR CODE HERE
-const getElementAt = (arr, int) => {
-    let i = "";
-    if (i = arr.at(int)) {
-        return i;
+const getElementAt = (arr, index) => {
+    if (index >= 0 && index < arr.length) {
+        return arr[index];
+    } else {
+        return null;
     };
-    return null;
 };
 
 console.log("Q7: ", getElementAt(full, 4));
