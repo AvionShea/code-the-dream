@@ -249,7 +249,7 @@ Code the Dream's mission resonates deeply with creating a more inclusive tech in
 
 **📝 Repository Purpose**: This collection documents my transformation from programming beginner to industry-ready developer through Code the Dream's comprehensive, community-driven education model.
 
-_Journey Started: [Date] | Current Phase: [Course/Level] | Next Milestone: [Goal]_
+_Journey Accepted: May 20, 2025 | Journey Started: July 1, 2025 | Current Phase: Intro to Programming | Next Milestone: Advanced Course Selection_
 
 **🚀 "Innovation comes from all of us and benefits all of us"** 🚀
 
